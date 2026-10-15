@@ -48,5 +48,4 @@
 | [**Tennis Scene**](https://github.com/NuclearPunch/tennisscene) · [live](https://tennisscene.vercel.app) | Single-feed social network for amateur tennis players — daily data pipeline posts weekly rankings, results and match videos through bot accounts; web + native app | Next.js · Supabase · PostgreSQL · Expo · Vercel Cron |
 | [**Gangho**](https://github.com/NuclearPunch/gangho) · [play](https://nuclearpunch.github.io/gangho/) | 3v3 real-time wuxia brawler in the browser — 22 fighters, 6 maps with unique hazards, AI-generated rigged 3D characters | Three.js · WebGL · glTF · esbuild |
 | [**LUNE**](https://github.com/NuclearPunch/Lune-AI) | AI dating concierge — emotion-based matching, real-time chat and AI conversation coaching | React · Express · PostgreSQL · WebSocket · OpenAI |
-| [**Corporate Card Calculator**](https://github.com/NuclearPunch/madmoney-calculator) | Upload a card-statement Excel export and get per-month team spend and remaining budget | JavaScript · SheetJS |
 | **Store Ledger** *(private)* | Desktop app that automates monthly sales, fee and cost settlement for a small business | Electron · React · sql.js |
